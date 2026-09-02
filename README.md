@@ -1,7 +1,3 @@
-Aqui está uma proposta de texto completa, profissional e adaptável para o **"Sobre" (About / README)** do seu projeto, destacando a arquitetura modernizada em C#, a escolha de persistência e os planos de infraestrutura na nuvem.
-
----
-
 # 🚀 Sobre o Projeto (ERP System)
 
 ## 📌 Visão Geral
