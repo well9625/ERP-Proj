@@ -34,12 +34,20 @@ public class produto
             throw new ArgumentException("O preço deve ser um valor positivo.");
         }
 
+    if (Descricao.Length >= 0)
+        {
+            
+        }
 
         this.Id = ++idProduto;
         this.nomeProduto = Nome;
+        this.Nome = Nome;
         this.precoProduto = Preco;
-        this.descricaoProduto = Descricao;
+        this.Preco = Preco;
+        this.descricaoProduto = string.IsNullOrWhiteSpace(Descricao) ? "Descrição não fornecida" : Descricao;
+        this.Descricao=Descricao;
         this.dataCriacao = DateTime.Now;
+        this.DataCriacao = this.DataCriacao;
 
     }
 
