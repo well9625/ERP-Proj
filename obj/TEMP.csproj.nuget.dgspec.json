@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\PROJETO CONTA BANCÁRIA\\Conta-Bancaria-C-sharp\\TEMP.csproj": {}
+    "D:\\C#\\erp\\ERP-Proj\\TEMP.csproj": {}
   },
   "projects": {
-    "D:\\C#\\PROJETO CONTA BANCÁRIA\\Conta-Bancaria-C-sharp\\TEMP.csproj": {
+    "D:\\C#\\erp\\ERP-Proj\\TEMP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\PROJETO CONTA BANCÁRIA\\Conta-Bancaria-C-sharp\\TEMP.csproj",
+        "projectUniqueName": "D:\\C#\\erp\\ERP-Proj\\TEMP.csproj",
         "projectName": "TEMP",
-        "projectPath": "D:\\C#\\PROJETO CONTA BANCÁRIA\\Conta-Bancaria-C-sharp\\TEMP.csproj",
+        "projectPath": "D:\\C#\\erp\\ERP-Proj\\TEMP.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\PROJETO CONTA BANCÁRIA\\Conta-Bancaria-C-sharp\\obj\\",
+        "outputPath": "D:\\C#\\erp\\ERP-Proj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
